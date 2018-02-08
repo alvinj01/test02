@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'capybara'
+gem 'pry-nav'
+gem 'pry-rails'
+gem 'rails', '4.1.14.1'
+gem 'rspec', '~> 3.4'
+gem 'rspec-rails', '~> 3.5'
+gem 'selenium-webdriver', '2.53.4'
+gem 'chromedriver-helper'
